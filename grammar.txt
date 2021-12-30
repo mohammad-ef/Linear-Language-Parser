@@ -1,0 +1,11 @@
+S->abSab
+S->Ba
+B->
+B->C
+B->bC
+C->c
+C->aD
+C->
+C->Di
+D->
+D->a
