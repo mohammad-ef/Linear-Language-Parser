@@ -1,6 +1,6 @@
 # Linear Language Parser
 
-## C++ implementation of the linear language parser
+#### C++ implementation of the linear language parser
 
 This code takes a linear grammar and a string as the input to check whether the grammar parses the given string or not.
 
